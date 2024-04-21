@@ -1,7 +1,3 @@
-# Tools
-All Tools for 
-
-```python
 import psycopg2
 import psycopg2.extras
 
@@ -57,5 +53,3 @@ finally:
       conn.close()
 
    
-
-```
